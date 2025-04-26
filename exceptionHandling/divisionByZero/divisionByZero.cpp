@@ -1,3 +1,6 @@
+//program for execption handling in Cpp to check zero case of denominator.
+//Author - Vedika Udgir.
+
 #include <iostream>
 using namespace std;
 
