@@ -1,3 +1,6 @@
+//Using friend class to access private members.
+//Author - Vedika Udgir.
+
 #include <iostream>
 using namespace std;
 
