@@ -1,3 +1,6 @@
+//Program in cpp to work on time management.
+//Author - Vedika Udgir
+
 #include <iostream>
 #include <ctime>
 #include <chrono>
