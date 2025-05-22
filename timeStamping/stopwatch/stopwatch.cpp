@@ -1,3 +1,6 @@
+//Program in cpp stimulating a stop watch.
+//Author - Vedika Udgir. 
+
 #include <iostream>
 #include <ctime>
 #include <chrono>
