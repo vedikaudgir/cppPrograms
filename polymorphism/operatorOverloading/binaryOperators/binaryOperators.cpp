@@ -1,3 +1,6 @@
+//Program in cpp to implement basic binary operator overloading.
+//Author - Vedika Udgir
+
 #include <iostream>
 using namespace std;
 
